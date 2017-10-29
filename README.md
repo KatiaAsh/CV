@@ -11,15 +11,21 @@ I'm a full-stack web developer at [Founders & Coders Nazareth](http://www.founde
 **Other skills**: Heroku, Handlebars.
 
 ### Education
+#### *2017* 
+
+**Founders and Coders**
+###### _July 2017 - October 2017_      
+**16-Week Intensive Web Development Course**
+
++ Self-organising learning environment encouraging learning new Program everyday.   
++ Worked on a variety of projects.   
++ Mentoring at Coding for Everyone meetups.
+
 **National School of Practical Engineers - Technion**
 
 _October 2017 - Present_       
 Software Engineering (Computers)
 
-**Founders and Coders**   
-
-_July 2017 - October 2017_      
-16-Week Intensive Web Development Course
 
 ## Contact
 katia.ashkar7@gmail.com
