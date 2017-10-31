@@ -1,6 +1,6 @@
 # Katia Ashkar
 
-I'm a full-stack web developer at [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a competitive Full Stack Web Development Bootcamp.
+I'm a full-stack web developer at [Founders & Coders Nazareth](http://www.foundersandcoders.com/), a competitive Full Stack Web Development Bootcamp. Currently a student at National School of Practical Engineers - Technion, Degree in Software Engineering.
 
 ## Skills
 **Languages**: HTML5, CSS3, Javascript (also ES6), Node.js, SQL.                                         
@@ -11,7 +11,7 @@ I'm a full-stack web developer at [Founders & Coders Nazareth](http://www.founde
 **Other skills**: Heroku, Handlebars.
 
 ### Education
-#### *2017* 
+#### *2017*
 
 **Founders and Coders**
 ###### _July 2017 - October 2017_      
