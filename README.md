@@ -2,13 +2,19 @@
 
 ## Skills
 ✓ Experience in software development in Python and PHP #, C.
+
 ✓ Experience in the languages of the Unix and MIPS, Assembler.
+
 ✓ Experience in Regression testing and generating reports.
+
 ✓ Graduate in Software Practical Engineering, specializing in NET # .C, NET.ASP and also JAVA and Android
 application development and WEB development.
+
 ✓ Experience in characterizing systems and writing code, running and implementing, working in a dynamic multi-
 tasking environment and under pressure conditions.
+
 ✓ High ability to handle multiple tasks on a daily basis and dependable person who is great at time management, always energetic and eager to learn new skills, experience working as part of a team and individually.
+
 ✓ Arabic - Mother Tongue | English - High Level | Hebrew - High level
 
 ## Work History
